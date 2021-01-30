@@ -1,0 +1,13 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 226D-D0E1
+
+ R‚pertoire de C:\Users\user\Desktop\myprject
+
+30/01/2021  10:07    <DIR>          .
+30/01/2021  10:07    <DIR>          ..
+30/01/2021  10:07               426 saida1.txt
+30/01/2021  10:07               474 saida2.txt
+30/01/2021  10:07                 0 saida3.txt
+30/01/2021  09:56               378 tester.txt
+               4 fichier(s)            1ÿ278 octets
+               2 R‚p(s)  407ÿ714ÿ111ÿ488 octets libres
